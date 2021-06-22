@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u00001\u0000-\u0000s\u0000o\u0000l\u0000i\u0000d\u0000i\u0000t\u0000y\u0000\r\u0000 \u0000",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreVeiga/pr1-solidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreVeiga/pr1-solidity/issues"
+  },
+  "homepage": "https://github.com/AndreVeiga/pr1-solidity#readme"
+}
